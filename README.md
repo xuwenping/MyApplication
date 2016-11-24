@@ -1,0 +1,2 @@
+# MyApplication
+这是一个Android测试工程，为了测试用git管理Android工程最少需要提交哪些文件
